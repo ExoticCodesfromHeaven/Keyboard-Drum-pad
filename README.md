@@ -11,7 +11,7 @@ Welcome to \*\*my \*\*Keyboard Drum Pad, an interactive online drum set that le
 
 ## 🚀 Live Demo
 
-Check out the live version here: 
+Check out the live version here: https://exoticcodesfromheaven.github.io/Keyboard-Drum-pad/
 
 ## 🛠️ Technologies Used
 
